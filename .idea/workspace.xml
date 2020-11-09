@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c2502d7-42c6-47e2-a816-db763d3b17d1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="HTTP Request" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1juUzwzcbrUjWbMtEvuE6gO39Si" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pribulikZ1" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c2502d7-42c6-47e2-a816-db763d3b17d1" name="Default Changelist" comment="" />
+      <created>1604653736098</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604653736098</updated>
+      <workItem from="1604653737190" duration="6904000" />
+      <workItem from="1604661231154" duration="1469000" />
+      <workItem from="1604663412883" duration="54000" />
+      <workItem from="1604663499693" duration="119000" />
+      <workItem from="1604664861638" duration="231000" />
+      <workItem from="1604665959000" duration="3790000" />
+      <workItem from="1604745778470" duration="1342000" />
+      <workItem from="1604747721818" duration="3129000" />
+      <workItem from="1604751417339" duration="410000" />
+      <workItem from="1604752242817" duration="313000" />
+      <workItem from="1604752674767" duration="14000" />
+      <workItem from="1604936830959" duration="858000" />
+      <workItem from="1604943324433" duration="1030000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="526" y="236" key="#Notifications" timestamp="1604944262202">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="526" y="236" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1604944262202" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1604944304829">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1604944304829" />
+    <state x="593" y="314" key="Github.CreateGistDialog" timestamp="1604943500057">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="593" y="314" key="Github.CreateGistDialog/0.0.1536.824@0.0.1536.824" timestamp="1604943500057" />
+    <state x="647" y="310" key="Github.ShareDialog" timestamp="1604944169539">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="647" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1604944169539" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1604944294841">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1604944294841" />
+  </component>
+</project>

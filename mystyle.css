@@ -1,0 +1,65 @@
+body {
+    background-image: url("pozadie.jpg");
+    background-size: cover;
+}
+#result{
+    color: white;
+}
+#graf{
+    width: auto;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    font-style: italic;
+    color: red;
+    text-align: center;
+}
+.container,#amplituda{
+
+    width: 100%;
+    height: auto;
+    text-align: center;
+
+}
+
+.container{
+    color: white;
+    background-color: rgba(0, 0, 255, 0.7);
+    width: 25%;
+}
+#amplituda{
+
+    background-color: rgba(255, 0, 0, 0.7);
+    width: 25%;
+}
+
+input[type=range],[type=number]{
+    margin:auto auto;
+    display:block;
+
+}
+
+label{
+    margin-right: 20px;
+}
+
+.tlacidlo{
+    width: 100%;
+    text-align: center;
+}
+button{
+    position: center;
+    width: 25%;
+    background-color: rgba(0, 230, 64, 0.8);
+}
+
+footer{
+    color: white;
+}
+
+
+
+

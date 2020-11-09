@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="sk">
+<head>
+    <meta charset="UTF-8">
+    <title>Lukáš Pribula - Zadanie 6</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+          integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="mystyle.css">
+</head>
+<body>
+
+<main>
+    <h1>Graf funkcie Sin(x) a Cos(x)</h1>
+    <div id="result"></div>
+    <div id="graf">
+
+
+    </div>
+
+
+    <div class="container ">
+
+
+        <input type="checkbox" id="sinus" name="sinus" onclick="vzSinus()" checked>
+        <label for="sinus">Sin</label>
+
+        <input type="checkbox" id="cosinus" name="cosinus" onclick="vzCosinus()"
+               checked>
+        <label for="cosinus">Cos</label><br>
+
+
+    </div>
+    <moj-component></moj-component>
+    <div class="tlacidlo">
+    <button id="koniec" onclick="ukonciVykreslovanie()">Koniec</button>
+    </div>
+</main>
+
+
+<script src="plotly-latest.min.js"></script>
+<script src="script.js"></script>
+
+<footer><p>&#169; Pribula Web design</p></footer>
+
+</body>
+</html>
